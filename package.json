@@ -1,0 +1,25 @@
+{
+	"author": {
+		"name": "Jacob Wasilkowski"
+	},
+	"bugs": {
+		"url": "https://github.com/jwasilgeo/Leaflet.Canvas-Flowmap-Layer/issues"
+	},
+	"bundleDependencies": false,
+	"contributors": [
+		{
+			"name": "José Mª Fernández"
+		}
+	],
+	"dependencies": {
+		"@tweenjs/tween.js": "^18.5.0"
+	},
+	"description": "Leaflet.Canvas-Flowmap-Layer is a custom layer plugin for LeafletJS to map the flow of objects from an origin point to a destination point by using a Bezier curve",
+	"homepage": "https://github.com/jwasilgeo/Leaflet.Canvas-Flowmap-Layer",
+	"license": "MIT",
+	"main": "src/CanvasFlowmapLayer.js",
+	"name": "Leaflet.Canvas-Flowmap-Layer",
+	"peerDependencies": {
+		"leaflet": "~1"
+	}
+}
