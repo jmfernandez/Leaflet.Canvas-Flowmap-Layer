@@ -21,5 +21,6 @@
 	"name": "Leaflet.Canvas-Flowmap-Layer",
 	"peerDependencies": {
 		"leaflet": "~1"
-	}
+	},
+	"version": "0.0.0-20200504"
 }
